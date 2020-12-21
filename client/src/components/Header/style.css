@@ -1,0 +1,26 @@
+Header{
+    
+        background-color: #d69710 !important;
+    
+}
+#nav-bar{
+    background-color: #d69710 !important;
+}
+
+a {
+    display: inline-flex;
+    padding: 5px;
+    margin: 5px;
+    color: white !important;
+    font-size: 16px;
+}
+
+a:hover {
+    
+    color:#AFF24B !important;
+    
+}
+
+.navbar-toggler{
+    background-color: white !important;
+}

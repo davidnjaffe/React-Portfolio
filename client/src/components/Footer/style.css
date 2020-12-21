@@ -1,0 +1,19 @@
+.footer {
+    background-color: #AFF24B;
+    
+
+  }
+
+  #sticky-footer {
+      text-align: center;
+      color: black;
+     
+  }
+
+ .footer-text a {
+     color: #536473 !important;
+ }
+ p {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+  }
