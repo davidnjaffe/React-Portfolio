@@ -24,3 +24,7 @@ a:hover {
 .navbar-toggler{
     background-color: white !important;
 }
+.bg-dark {
+    background-color: #536473 !important;
+    padding:15px;
+}

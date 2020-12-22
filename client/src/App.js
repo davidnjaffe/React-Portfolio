@@ -6,6 +6,7 @@ import Header from "./components/Header"
 import Footer from "./components/Footer"
 import Home from "./pages/Home"
 import Portfolio from "./pages/Portfolio"
+import Contact from "./pages/Contact"
 
 
 function App() {
@@ -21,6 +22,9 @@ function App() {
           </Route>
           <Route exact path={["/", "/portfolio"]}>
             <Portfolio />
+          </Route>
+          <Route exact path={["/", "/contact"]}>
+            <Contact />
           </Route>
       </Switch>
     </div>

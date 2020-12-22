@@ -124,6 +124,12 @@ export default class Cards extends Component {
                  </div>
             
                   </div>
+                  <div className="row" id="resume-block">
+      <div className="col-md-12">
+        <a href="../../images/David-Jaffe.pdf" target="blank"><h4>VIEW RESUME</h4></a>
+
+      </div>
+    </div>
 
 
 

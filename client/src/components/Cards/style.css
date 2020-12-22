@@ -53,3 +53,9 @@ h4{
     padding-right: 100px;
     margin-bottom: 50px;
 }
+
+#resume-block{
+    text-align: center;
+    padding:25px;
+    background-color: darkorange;
+}

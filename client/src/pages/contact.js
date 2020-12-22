@@ -1,12 +1,14 @@
 import React from "react";
+import ContactHeader from '../components/ContactHeader'
+import Form from "../components/Form"
 
-
-const contact = () => {
+const Contact = () => {
   return(
-   
-<contactBody/>
-   
+<div>
+<ContactHeader/>
+<Form />
+</div>   
   );
 }
 
-export default contact;
+export default Contact;
