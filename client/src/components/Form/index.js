@@ -16,9 +16,11 @@ export default class Form extends Component {
           <input type="email" class="form-control" id="emailbox"></input>
           <label for="message">Message</label>
           <input type="message" class="form-control" id="messagebox"></input>
+          <div className="row" id="checkbox">
           <input type="checkbox" class="form-check-input" id="exampleCheck1"></input>
           <label className="form-check-label" for="exampleCheck1">I'm most likley not a robot</label>
-          <div className="row"><button type="submit" class="btn btn-primary">Submit</button></div>
+          </div>
+          <div className="row" id="submit"><button type="submit" class="btn btn-primary">Submit</button></div>
 
           
           

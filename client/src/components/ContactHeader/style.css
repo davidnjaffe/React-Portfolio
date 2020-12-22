@@ -12,3 +12,20 @@
     padding: 0px;
     background-color: #536473;
 }
+
+#checkbox{
+    padding:20px;
+    padding-left: 25px
+}
+
+.btn-primary {
+    color: #000 !important;
+    background-color: #AFF24B !important;
+    border-color: #010B40;
+    
+}
+
+.btn-primary:hover {
+    color: black;
+    background-color: white !important;
+}
