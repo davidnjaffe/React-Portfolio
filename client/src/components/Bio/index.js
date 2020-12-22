@@ -24,7 +24,7 @@ export default class Bio extends Component {
           </div>
           <div className="col-md-12"><br></br></div>
           <div className="col-md-12" id="tagline"><p>David’s journey into web development is something that he has always been interested in but always too sidetracked to take the plunge. The time has come! It’s time to code!</p></div>
-          <div className="col-md-12"><br></br></div>
+          <div className="col-md-12" id="bottom"><br></br></div>
           
           </div>
           </div>
