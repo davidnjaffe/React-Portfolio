@@ -21,10 +21,10 @@ export default class Header extends Component {
             <Link className="nav-link" href="/">Home <span class="sr-only">(current)</span></Link>
           </li>
           <li className="nav-item">
-            <Link class="nav-link" href="portfolio">Portfolio</Link>
+            <Link class="nav-link" href="#/portfolio">Portfolio</Link>
           </li>
           <li className="nav-item">
-            <Link className="nav-link" href="contact">Contact</Link>
+            <Link className="nav-link" href="#/contact">Contact</Link>
           </li>
         </ul>
       </div>
