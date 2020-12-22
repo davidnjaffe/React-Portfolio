@@ -1,16 +1,11 @@
 import React from "react";
+import Cards from '../components/Cards';
 
 
 const Portfolio = () => {
   return(
-   
-<div>
-<div class="row" id="hero-header">
-        <div class="col-md-12">
-          <h1>Web Development Portfolio</h1>
-        </div>
-      </div>
-</div>
+   <Cards />
+
    
   );
 }

@@ -1,0 +1,55 @@
+card {
+    margin: 1rem auto;
+    position: relative; 
+  }
+
+  .card-body{
+    background-color: #F2F2F2;
+    border: none;
+}
+
+.card{
+    background-color: transparent;
+    border:none !important;
+    padding: 25px;;
+}
+
+.card-img-top{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+ }
+
+  #bottomImg {
+    
+    margin-top: -50px;
+    margin-left: 15px;
+    box-shadow: 0px 10px 8px 0px rgba(0, 0, 0, 0.2);
+ }
+
+ #bottomImg2 {
+    
+    margin-top: -50px;
+    margin-left: 30px;
+    box-shadow: 0px 10px 8px 0px rgba(0, 0, 0, 0.2);
+ }
+
+ #project-title{
+    text-align: center;
+}
+
+#project-links{
+    list-style: none;
+    text-align: center;
+    margin-left: -50px;
+    color: #231C58;
+    
+}
+
+h4{
+    color: #000;
+}
+
+#card-row{
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 50px;
+}
